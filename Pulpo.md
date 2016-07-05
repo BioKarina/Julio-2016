@@ -1,0 +1,20 @@
+
+<img src="http://posgrados.cicese.mx/img/logos/cicese.jpg" / width = 20%>
+
+## [La posible historia del pulpo maya leída en su ADN] (http://www.revistaciencias.unam.mx/es/component/content/article/98-revistas/revista-ciencias-97/545-la-historia-del-pulpo-maya-leida-en-su-adn.html)
+#### O. E. Juárez, C. Rosas y L. Arena
+
+**Facultad de Ciencias, Universidad Nacional Autónoma de México (2010).**
+
+**Resumen por:** Nambo García Karina
+
+El pulpo maya, *Octopus maya* es endémico de la península de Yucatán ya que se encuentra naturalmente explotado, actualmente se pretende lograr un equilibrio mediante un periodo de veda (del 15 de diciembre al 1 de agosto).
+
+En el presente trabajo los autores mencionan que para poder proponer estrategias de manejo y lograr la conservación de una especie es básico conocer a fondo todos sus aspectos biológicos, así como su origen y evolución. Una forma de estudiar la diferenciación de las especies es mediante los genes homólogos.
+Para llevar a cabo el estudio de los genes de *O. maya* fue necesario identificar las secuencias de bases aledañas a los genes homólogos propuestos (16 S rARN, citocromo oxidasa I y citocromo oxidasa III), después se enviaron para su síntesis secuencias sencillas que fueron utilizadas como primers, posteriormente utilizaron la técnica de reacción cíclica de la polimerasa (PCR) mediante la cual se obtuvieron millones de copias de los genes homólogos que fueron analizados con el proceso de electroforesis y secuenciación de la muestra, y finalmente se realizó la comparación y el análisis evolutivo de las secuencias con un software especializado. 
+Desde el punto de vista evolutivo en este trabajo se partió de la hipótesis de que el pulpo maya está cercanamente relacionado con pulpos que también se encuentra en el continente americano. 
+ 
+
+De acuerdo con los resultados obtenidos en este estudio, se dice que es posible estimar que la radiación adaptativa de los pulpos de América comenzó hace aproximadamente 4 millones de años, y si retrocedemos a esta época encontramos que Panamá era un “puente a medio construir”, entre América del Norte y del Sur. Por lo que la separación de estas especies se le atribuye al surgimiento del istmo de Panamá. 
+
+<img src="https://raw. = 50%>
